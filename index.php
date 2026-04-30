@@ -461,7 +461,7 @@ gtag('config', 'G-2M6V79H761');
                         <!-- Box 4 -->
                         <div class="flex items-center gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] group transition-all duration-300 hover:border-[#1B9DD9]/50 hover:bg-[#1B9DD9]/[0.02] cursor-default">
                             <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 group-hover:bg-[#1B9DD9] flex items-center justify-center shrink-0 transition-all">
-                                <iconify-icon icon="solar:wifi-linear" class="text-[#1B9DD9] group-hover:text-white transition-colors"></iconify-icon>
+                                <iconify-icon icon="solar:wifi-router-linear" class="text-[#1B9DD9] group-hover:text-white transition-colors"></iconify-icon>
                             </div>
                             <span class="text-sm font-semibold text-white group-hover:text-[#1B9DD9] transition-colors">Wi-Fi & Redes</span>
                         </div>
