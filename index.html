@@ -45,6 +45,24 @@ iconify-icon { stroke-width: 1.5; }
 ::-webkit-scrollbar { width: 8px; }
 ::-webkit-scrollbar-track { background: #0C0C0C; }
 ::-webkit-scrollbar-thumb { background: #1B9DD9; }
+
+/* Diagram Box Custom Hover */
+.diagram-box {
+    transition: all 0.3s ease;
+}
+.diagram-box:hover {
+    background-color: #1B9DD9 !important;
+    border-color: #1B9DD9 !important;
+}
+.diagram-box:hover span {
+    color: white !important;
+}
+.diagram-box:hover .icon-container {
+    background-color: white !important;
+}
+.diagram-box:hover iconify-icon {
+    color: #1B9DD9 !important;
+}
 </style><!-- aura-ga4-start -->
 
 <script>
@@ -426,23 +444,23 @@ gtag('config', 'G-2M6V79H761');
                     <!-- Inputs -->
                     <div class="flex flex-col justify-between h-[280px] z-10">
                         <!-- Box 1 -->
-                        <div class="flex items-center justify-between gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] group transition-all duration-300 hover:border-[#1B9DD9] hover:bg-[#1B9DD9] cursor-default">
+                        <div class="flex items-center justify-between gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] diagram-box cursor-default">
                             <span class="text-sm font-semibold text-white transition-colors">Equipe Produtiva</span>
-                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 group-hover:bg-white flex items-center justify-center shrink-0 transition-all">
+                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 icon-container flex items-center justify-center shrink-0 transition-all">
                                 <iconify-icon icon="solar:users-group-two-rounded-linear" class="text-[#1B9DD9] transition-colors"></iconify-icon>
                             </div>
                         </div>
                         <!-- Box 2 -->
-                        <div class="flex items-center justify-between gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] group transition-all duration-300 hover:border-[#1B9DD9] hover:bg-[#1B9DD9] cursor-default">
+                        <div class="flex items-center justify-between gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] diagram-box cursor-default">
                             <span class="text-sm font-semibold text-white transition-colors">Dados Seguros</span>
-                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 group-hover:bg-white flex items-center justify-center shrink-0 transition-all">
+                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 icon-container flex items-center justify-center shrink-0 transition-all">
                                 <iconify-icon icon="solar:lock-password-linear" class="text-[#1B9DD9] transition-colors"></iconify-icon>
                             </div>
                         </div>
                         <!-- Box 3 -->
-                        <div class="flex items-center justify-between gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] group transition-all duration-300 hover:border-[#1B9DD9] hover:bg-[#1B9DD9] cursor-default">
+                        <div class="flex items-center justify-between gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] diagram-box cursor-default">
                             <span class="text-sm font-semibold text-white transition-colors">Operação Estável</span>
-                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 group-hover:bg-white flex items-center justify-center shrink-0 transition-all">
+                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 icon-container flex items-center justify-center shrink-0 transition-all">
                                 <iconify-icon icon="solar:verified-check-bold" class="text-[#1B9DD9] transition-colors"></iconify-icon>
                             </div>
                         </div>
@@ -459,22 +477,22 @@ gtag('config', 'G-2M6V79H761');
                     <!-- Outputs -->
                     <div class="flex flex-col justify-between h-[280px] z-10">
                         <!-- Box 4 -->
-                        <div class="flex items-center gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] group transition-all duration-300 hover:border-[#1B9DD9] hover:bg-[#1B9DD9] cursor-default">
-                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 group-hover:bg-white flex items-center justify-center shrink-0 transition-all">
-                                <iconify-icon icon="solar:wifi-router-linear" class="text-[#1B9DD9] transition-colors"></iconify-icon>
+                        <div class="flex items-center gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] diagram-box cursor-default">
+                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 icon-container flex items-center justify-center shrink-0 transition-all">
+                                <iconify-icon icon="solar:router-bold" class="text-[#1B9DD9] transition-colors"></iconify-icon>
                             </div>
                             <span class="text-sm font-semibold text-white transition-colors">Wi-Fi & Redes</span>
                         </div>
                         <!-- Box 5 -->
-                        <div class="flex items-center gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] group transition-all duration-300 hover:border-[#1B9DD9] hover:bg-[#1B9DD9] cursor-default">
-                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 group-hover:bg-white flex items-center justify-center shrink-0 transition-all">
+                        <div class="flex items-center gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] diagram-box cursor-default">
+                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 icon-container flex items-center justify-center shrink-0 transition-all">
                                 <iconify-icon icon="solar:chart-2-linear" class="text-[#1B9DD9] transition-colors"></iconify-icon>
                             </div>
                             <span class="text-sm font-semibold text-white transition-colors">GATE SIS ERP</span>
                         </div>
                         <!-- Box 6 -->
-                        <div class="flex items-center gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] group transition-all duration-300 hover:border-[#1B9DD9] hover:bg-[#1B9DD9] cursor-default">
-                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 group-hover:bg-white flex items-center justify-center shrink-0 transition-all">
+                        <div class="flex items-center gap-4 border border-white/[0.08] bg-[#111111] p-4 h-[60px] diagram-box cursor-default">
+                            <div class="w-[30px] h-[30px] rounded-full bg-[#1B9DD9]/10 icon-container flex items-center justify-center shrink-0 transition-all">
                                 <iconify-icon icon="solar:cloud-storage-linear" class="text-[#1B9DD9] transition-colors"></iconify-icon>
                             </div>
                             <span class="text-sm font-semibold text-white transition-colors">Nuvem & Backup</span>
