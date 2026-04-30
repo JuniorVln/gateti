@@ -1,0 +1,8 @@
+[    1400ms] [WARNING] Umami website ID not configured @ https://www.aura.build/assets/index-UUgTUadD.js:7799
+[    1400ms] [WARNING] PromoteKit ID not configured @ https://www.aura.build/assets/index-UUgTUadD.js:15901
+[    3220ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://www.aura.build/assets/index-UUgTUadD.js:40
+[    3767ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://hoirqrkdgbmvpwutwuwj.supabase.co/rest/v1/chats?select=project_id&shared_code_id=eq.23722:0
+[    4672ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://www.aura.build/share/builder-energy-37?embed=true:0
+[    5127ms] [WARNING] Umami website ID not configured @ https://www.aura.build/assets/index-UUgTUadD.js:7799
+[    5127ms] [WARNING] PromoteKit ID not configured @ https://www.aura.build/assets/index-UUgTUadD.js:15901
+[    9357ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
