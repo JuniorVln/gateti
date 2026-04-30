@@ -1,3 +1,0 @@
-DirectoryIndex inicio.html index.html index.php default.php
-RewriteEngine On
-RewriteRule ^$ /inicio.html [L]
