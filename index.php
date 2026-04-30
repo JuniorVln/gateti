@@ -300,35 +300,35 @@ gtag('config', 'G-2M6V79H761');
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-32 items-center">
                 <div class="reveal">
                     <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-8 block">Gestão Inteligente</span>
-                    <h2 class="text-5xl md:text-6xl font-extrabold tracking-[-0.045em] leading-[0.95] mb-8 text-[#0C0C0C]">
+                    <h2 class="text-5xl md:text-6xl font-extrabold tracking-[-0.045em] leading-[0.95] mb-8 text-white">
                         O coração da sua<br>
-                        <span class="font-extralight italic text-[#888888]">operação</span><br>
+                        <span class="font-extralight italic text-white/50">operação</span><br>
                         em um só lugar.
                     </h2>
-                    <p class="text-base font-extralight text-[#444444] leading-[1.75] mb-12 max-w-lg">
+                    <p class="text-base font-extralight text-white/60 leading-[1.75] mb-12 max-w-lg">
                         Esqueça a complexidade de gerenciar múltiplos softwares. O GATE SIS é o ERP completo que integra todas as áreas da sua empresa, oferecendo controle total e informações em tempo real.
                     </p>
 
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-6 mb-12">
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-[#0C0C0C]">Gestão Financeira Completa</span>
+                            <span class="text-sm font-normal text-white/80">Gestão Financeira Completa</span>
                         </div>
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-[#0C0C0C]">Controle de Estoque & Compras</span>
+                            <span class="text-sm font-normal text-white/80">Controle de Estoque & Compras</span>
                         </div>
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-[#0C0C0C]">Faturamento & NF-e Ágeis</span>
+                            <span class="text-sm font-normal text-white/80">Faturamento & NF-e Ágeis</span>
                         </div>
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-[#0C0C0C]">Relatórios de Desempenho</span>
+                            <span class="text-sm font-normal text-white/80">Relatórios de Desempenho</span>
                         </div>
                     </div>
 
-                    <a href="#contato" class="inline-flex items-center justify-center bg-[#0C0C0C] hover:bg-[#222222] text-white text-sm font-semibold rounded-full px-8 py-4 transition-all">
+                    <a href="#contato" class="inline-flex items-center justify-center bg-[#1B9DD9] hover:bg-[#1689C0] text-white text-sm font-semibold rounded-full px-8 py-4 transition-all shadow-[0_10px_20px_-5px_rgba(27,157,217,0.3)]">
                         Solicitar Demonstração
                     </a>
                 </div>
