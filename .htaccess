@@ -1,11 +1,2 @@
 ﻿Options -Indexes
 DirectoryIndex index.php index.html
-
-RewriteEngine On
-RewriteBase /
-
-# Redireciona raiz para index.php
-RewriteRule ^$ /index.php [L,R=302]
-
-# Redireciona index.html para index.php
-RewriteRule ^index\.html?$ /index.php [NC,L,R=302]
