@@ -91,7 +91,11 @@ gtag('config', 'G-2M6V79H761');
                 <a href="#contato" class="hover:text-white transition-colors duration-200">Contato</a>
             </div>
 
-            <div class="flex items-center">
+            <div class="flex items-center gap-3">
+                <a href="https://gatesolution.suport.systems" target="_blank" rel="noopener" aria-label="Área do Cliente" class="inline-flex items-center gap-2 justify-center bg-transparent border border-[#1B9DD9]/50 hover:bg-[#1B9DD9]/10 hover:border-[#1B9DD9] text-white text-xs font-semibold rounded-full px-3 sm:px-5 py-2.5 transition-all transform hover:-translate-y-[1px]">
+                    <iconify-icon icon="solar:user-rounded-linear" class="text-sm text-[#1B9DD9]"></iconify-icon>
+                    <span class="hidden sm:inline">Área do Cliente</span>
+                </a>
                 <a href="https://wa.me/554191224326" target="_blank" rel="noopener" class="hidden md:inline-flex items-center gap-2 justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-xs font-semibold rounded-full px-6 py-2.5 transition-all transform hover:-translate-y-[1px]">
                     <iconify-icon icon="solar:chat-round-line-linear" class="text-sm"></iconify-icon>
                     Fale com um Especialista
@@ -809,6 +813,10 @@ gtag('config', 'G-2M6V79H761');
                     <p class="text-sm font-extralight text-white/30 leading-[1.75] max-w-sm mt-2">
                         Soluções integradas de infraestrutura, sistemas e nuvem para acelerar o crescimento do seu negócio com segurança e eficiência técnica.
                     </p>
+                    <a href="https://gatesolution.suport.systems" target="_blank" rel="noopener" class="inline-flex items-center gap-2 justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-sm font-semibold rounded-full px-6 py-3 mt-8 transition-all transform hover:-translate-y-[1px]">
+                        <iconify-icon icon="solar:user-rounded-linear" class="text-base"></iconify-icon>
+                        Área do Cliente
+                    </a>
                     <div class="flex space-x-4 mt-8">
                         <a href="#" class="w-9 h-9 border border-white/[0.08] flex items-center justify-center text-white/40 hover:text-white hover:border-white transition-all">
                             <iconify-icon icon="solar:camera-linear"></iconify-icon>
