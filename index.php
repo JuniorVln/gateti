@@ -96,9 +96,9 @@ gtag('config', 'G-2M6V79H761');
                     <iconify-icon icon="solar:user-rounded-linear" class="text-sm text-[#1B9DD9]"></iconify-icon>
                     <span class="hidden sm:inline">Área do Cliente</span>
                 </a>
-                <a href="https://wa.me/554191224326" target="_blank" rel="noopener" class="hidden md:inline-flex items-center gap-2 justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-xs font-semibold rounded-full px-6 py-2.5 transition-all transform hover:-translate-y-[1px]">
+                <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="hidden md:inline-flex items-center gap-2 justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-xs font-semibold rounded-full px-6 py-2.5 transition-all transform hover:-translate-y-[1px]">
                     <iconify-icon icon="solar:chat-round-line-linear" class="text-sm"></iconify-icon>
-                    Fale com um Especialista
+                    Diagnóstico Gratuito
                 </a>
                 <button class="md:hidden text-white/70 hover:text-white transition-colors">
                     <iconify-icon icon="solar:hamburger-menu-linear" class="text-xl"></iconify-icon>
@@ -123,25 +123,25 @@ gtag('config', 'G-2M6V79H761');
             <div class="max-w-4xl reveal">
                 <div class="flex items-center gap-4 mb-8">
                     <div class="w-[32px] h-[1px] bg-[#1B9DD9]"></div>
-                    <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9]">TI • INFRA • SISTEMAS • NUVEM</span>
+                    <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9]">TI ESTRATÉGICA PARA EMPRESAS QUE QUEREM CRESCER</span>
                 </div>
 
                 <h1 class="text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-[-0.045em] leading-[0.95] mb-8 text-white reveal delay-100">
-                    Tecnologia,<br>
-                    Infraestrutura<br>
-                    <span class="font-extralight italic text-white/55">e Gestão Integrada.</span>
+                    Sua empresa<br>
+                    funcionando.<br>
+                    <span class="font-extralight italic text-white/55">Sempre.</span>
                 </h1>
 
                 <p class="text-base md:text-lg font-extralight text-white/50 leading-[1.75] max-w-xl mb-12 reveal delay-200">
-                    Do cabeamento estruturado de alta performance ao sistema ERP completo. A Gate+ oferece soluções de ponta a ponta para conectar, proteger e gerenciar a sua empresa com eficiência.
+                    Nós cuidamos de toda a sua TI — da infraestrutura ao sistema — para que você foque no crescimento do seu negócio sem interrupções.
                 </p>
 
                 <div class="flex flex-col sm:flex-row gap-4 reveal delay-300">
-                    <a href="#solucoes" class="inline-flex items-center justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-sm font-semibold rounded-full px-8 py-4 transition-all transform hover:-translate-y-[1px]">
-                        Ver Soluções
+                    <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="inline-flex items-center justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-sm font-semibold rounded-full px-8 py-4 transition-all transform hover:-translate-y-[1px]">
+                        Solicitar diagnóstico gratuito
                     </a>
-                    <a href="https://wa.me/554191224326" target="_blank" rel="noopener" class="inline-flex items-center justify-center bg-transparent border border-white/20 hover:bg-white/5 text-white text-sm font-normal rounded-full px-8 py-4 transition-all transform hover:-translate-y-[1px]">
-                        Falar no WhatsApp
+                    <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="inline-flex items-center justify-center bg-transparent border border-white/20 hover:bg-white/5 text-white text-sm font-normal rounded-full px-8 py-4 transition-all transform hover:-translate-y-[1px]">
+                        Falar com especialista
                     </a>
                 </div>
             </div>
@@ -156,14 +156,14 @@ gtag('config', 'G-2M6V79H761');
 
             <!-- Left: Context -->
             <div class="flex flex-col justify-start reveal">
-                <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-8 block">O Custo da Fragmentação</span>
+                <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-8 block">O Problema</span>
                 <h2 class="text-5xl md:text-7xl font-extrabold tracking-[-0.045em] leading-[0.95] mb-8 text-white">
-                    Cada falha de TI<br>
-                    <span class="font-extralight italic text-white/50">custa mais</span><br>
-                    do que parece.
+                    Sua empresa está<br>
+                    perdendo tempo<br>
+                    <span class="font-extralight italic text-white/50">por falhas na TI?</span>
                 </h2>
                 <p class="text-base font-extralight text-white/40 leading-[1.75] max-w-md">
-                    Redes sem projeto, sistemas que não se integram e dados sem proteção não são apenas inconvenientes — são riscos reais para a continuidade do seu negócio. E o problema cresce silenciosamente.
+                    Rede instável, sistemas isolados, dados sem proteção e suporte lento não são apenas problemas técnicos. São prejuízo, desorganização e risco para a continuidade do seu negócio.
                 </p>
             </div>
 
@@ -184,29 +184,29 @@ gtag('config', 'G-2M6V79H761');
                         <!-- Node 1 -->
                         <div class="timeline-node relative pl-12 py-6">
                             <div class="node-dot absolute left-0 top-7 w-[13px] h-[13px] rounded-full bg-[#111111] border border-white/20"></div>
-                            <span class="node-label block font-semibold tracking-[0.2em] uppercase text-xs text-white/50 mb-2 transition-colors duration-300">Rede Sem Projeto</span>
-                            <p class="text-base font-extralight text-white/40 leading-[1.75]">Equipamentos conectados sem planejamento. Lentidão, quedas e instabilidade comprometem toda a equipe.</p>
+                            <span class="node-label block font-semibold tracking-[0.2em] uppercase text-xs text-white/50 mb-2 transition-colors duration-300">Rede Instável</span>
+                            <p class="text-base font-extralight text-white/40 leading-[1.75]">Internet caindo, Wi-Fi fraco e equipamentos sem planejamento interrompem a rotina e reduzem a produtividade da equipe.</p>
                         </div>
 
                         <!-- Node 2 -->
                         <div class="timeline-node relative pl-12 py-6">
                             <div class="node-dot absolute left-0 top-7 w-[13px] h-[13px] rounded-full bg-[#111111] border border-white/20"></div>
-                            <span class="node-label block font-semibold tracking-[0.2em] uppercase text-xs text-white/50 mb-2 transition-colors duration-300">Sistemas Isolados</span>
-                            <p class="text-base font-extralight text-white/40 leading-[1.75]">ERP de um fornecedor, cloud de outro, suporte de um terceiro. Dados que não se integram e relatórios que nunca fecham.</p>
+                            <span class="node-label block font-semibold tracking-[0.2em] uppercase text-xs text-white/50 mb-2 transition-colors duration-300">Sistemas que Não Conversam</span>
+                            <p class="text-base font-extralight text-white/40 leading-[1.75]">ERP, financeiro, estoque e relatórios desconectados criam retrabalho, informações desencontradas e decisões mais lentas.</p>
                         </div>
 
                         <!-- Node 3 -->
                         <div class="timeline-node relative pl-12 py-6">
                             <div class="node-dot absolute left-0 top-7 w-[13px] h-[13px] rounded-full bg-[#111111] border border-white/20"></div>
                             <span class="node-label block font-semibold tracking-[0.2em] uppercase text-xs text-white/50 mb-2 transition-colors duration-300">Dados Sem Proteção</span>
-                            <p class="text-base font-extralight text-white/40 leading-[1.75]">Sem backup adequado, um único incidente pode apagar anos de informação. Cada dia sem proteção é um risco real.</p>
+                            <p class="text-base font-extralight text-white/40 leading-[1.75]">Arquivos importantes sem backup confiável deixam a empresa vulnerável a falhas, perdas, ataques e paradas inesperadas.</p>
                         </div>
 
                         <!-- Node 4 -->
                         <div class="timeline-node relative pl-12 py-6">
                             <div class="node-dot absolute left-0 top-7 w-[13px] h-[13px] rounded-full bg-[#111111] border border-white/20"></div>
-                            <span class="node-label block font-semibold tracking-[0.2em] uppercase text-xs text-white/50 mb-2 transition-colors duration-300">O Negócio Para</span>
-                            <p class="text-base font-light text-white leading-[1.75]">Quando tudo falha ao mesmo tempo, é você que responde. Receita parada, equipe sem trabalhar, clientes insatisfeitos.</p>
+                            <span class="node-label block font-semibold tracking-[0.2em] uppercase text-xs text-white/50 mb-2 transition-colors duration-300">Suporte Lento</span>
+                            <p class="text-base font-light text-white leading-[1.75]">Quando o atendimento demora, cada problema vira estresse. A empresa para, a equipe espera e o cliente sente o impacto.</p>
                         </div>
 
                     </div>
@@ -221,11 +221,11 @@ gtag('config', 'G-2M6V79H761');
         <div class="max-w-[90rem] mx-auto px-6">
 
             <div class="mb-20 max-w-2xl">
-                <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#999999] mb-8 block">O Problema</span>
+                <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#999999] mb-8 block">A Solução</span>
                 <h2 class="text-5xl md:text-6xl font-extrabold tracking-[-0.045em] leading-[0.95]">
-                    A maioria das empresas<br>
-                    <span class="font-extralight italic text-[#888888]">improvisa.</span><br>
-                    Não integra.
+                    A Gate TI assume<br>
+                    a responsabilidade<br>
+                    <span class="font-extralight italic text-[#888888]">pela sua tecnologia.</span>
                 </h2>
             </div>
 
@@ -235,7 +235,7 @@ gtag('config', 'G-2M6V79H761');
 
                     <!-- Left: Fragmentado -->
                     <div class="bg-[#DDE8F3] p-10 md:p-16 flex flex-col items-center">
-                        <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#7A90A8] mb-12 block text-center w-full">Fragmentado — Fornecedor por Fornecedor</span>
+                        <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#7A90A8] mb-12 block text-center w-full">Fragmentado — Vários Fornecedores</span>
 
                         <div class="w-full max-w-sm flex flex-col">
                             <div class="border border-dashed border-[#A8B8C8] bg-[#C8D8E8]/50 p-4 text-center">
@@ -251,26 +251,26 @@ gtag('config', 'G-2M6V79H761');
                                 <span class="text-xs font-light text-[#7A90A8] tracking-widest">↕ sem integração de rede</span>
                             </div>
                             <div class="border border-dashed border-[#A8B8C8] bg-[#C8D8E8]/50 p-4 text-center">
-                                <span class="text-sm font-light text-[#444444]">ERP de terceiro sem suporte dedicado</span>
+                                <span class="text-sm font-light text-[#444444]">Sistema de gestão sem integração</span>
                             </div>
                             <div class="py-3 text-center flex flex-col items-center justify-center">
                                 <span class="text-xs font-light text-[#7A90A8] tracking-widest">↕ sistemas isolados</span>
                             </div>
                             <div class="border border-dashed border-[#A8B8C8] bg-[#C8D8E8]/50 p-4 text-center">
-                                <span class="text-sm font-light text-[#444444]">Cloud com outro prestador</span>
+                                <span class="text-sm font-light text-[#444444]">Backup e segurança sem rotina clara</span>
                             </div>
                         </div>
 
                         <p class="text-sm font-extralight italic text-[#666666] mt-16 text-center">Cada sistema funciona sozinho. A empresa não.</p>
                     </div>
 
-                    <!-- Right: Gate+ Integrado -->
+                    <!-- Right: Gate TI Integrado -->
                     <div class="bg-[#0C0C0C] p-10 md:p-16 flex flex-col items-center">
-                        <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-12 block text-center w-full">Integrado — Gate+ Cuida de Tudo</span>
+                        <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-12 block text-center w-full">Integrado — Gate TI Cuida de Tudo</span>
 
                         <div class="w-full max-w-sm flex flex-col">
                             <div class="border border-[#1B9DD9] border-l-[3px] bg-[#1B9DD9]/10 p-4 text-center">
-                                <span class="text-sm font-semibold text-white">Infraestrutura Projetada pela Gate+</span>
+                                <span class="text-sm font-semibold text-white">Infraestrutura Projetada pela Gate TI</span>
                             </div>
                             <div class="h-4 w-[2px] bg-[#1B9DD9]/40 mx-auto"></div>
 
@@ -294,17 +294,17 @@ gtag('config', 'G-2M6V79H761');
                             </div>
                         </div>
 
-                        <p class="text-sm font-extralight italic text-white/40 mt-16 text-center">Projetado como um sistema. Operado como um sistema.</p>
+                        <p class="text-sm font-extralight italic text-white/40 mt-16 text-center">Um único parceiro para toda a sua TI.</p>
                     </div>
                 </div>
 
                 <!-- Verdict Bar -->
                 <div class="grid grid-cols-1 lg:grid-cols-2 gap-[3px] mt-[3px]">
                     <div class="bg-[#C8D8E8] p-6 text-center lg:text-left flex items-center justify-center">
-                        <span class="text-sm font-extralight italic text-[#666666]">Múltiplos contratos. Sem responsável claro. Problemas após a implantação.</span>
+                        <span class="text-sm font-extralight italic text-[#666666]">Múltiplos contratos. Sem responsável claro. Problemas viram disputa entre fornecedores.</span>
                     </div>
                     <div class="bg-[#1B9DD9] p-6 text-center lg:text-left flex items-center justify-center">
-                        <span class="text-sm font-semibold text-white">Infraestrutura integrada. Gestão centralizada. Zero surpresas.</span>
+                        <span class="text-sm font-semibold text-white">Segurança, organização e continuidade com um parceiro responsável.</span>
                     </div>
                 </div>
             </div>
@@ -321,37 +321,37 @@ gtag('config', 'G-2M6V79H761');
             <!-- Top Grid: Text + Rack Panel -->
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-32 items-center mb-24">
                 <div class="reveal">
-                    <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-8 block">Gestão Inteligente</span>
+                    <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-8 block">Soluções Completas</span>
                     <h2 class="text-5xl md:text-6xl font-extrabold tracking-[-0.045em] leading-[0.95] mb-8 text-white">
-                        O coração da sua<br>
-                        <span class="font-extralight italic text-white/50">operação</span><br>
-                        em um só lugar.
+                        Tecnologia sem<br>
+                        improviso para<br>
+                        <span class="font-extralight italic text-white/50">sua empresa.</span>
                     </h2>
                     <p class="text-base font-extralight text-white/60 leading-[1.75] mb-12 max-w-lg">
-                        Esqueça a complexidade de gerenciar múltiplos softwares. O GATE SIS é o ERP completo que integra todas as áreas da sua empresa, oferecendo controle total e informações em tempo real.
+                        Da infraestrutura ao sistema, a Gate TI estrutura, integra, protege e acompanha sua tecnologia para manter a operação estável, segura e produtiva.
                     </p>
 
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-6 mb-12">
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-white/80">Gestão Financeira Completa</span>
+                            <span class="text-sm font-normal text-white/80">Infraestrutura de TI, redes, servidores e Wi-Fi corporativo</span>
                         </div>
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-white/80">Controle de Estoque & Compras</span>
+                            <span class="text-sm font-normal text-white/80">Sistemas, integração de processos e GATE SIS</span>
                         </div>
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-white/80">Faturamento & NF-e Ágeis</span>
+                            <span class="text-sm font-normal text-white/80">Segurança, antivírus, backup e adequação à LGPD</span>
                         </div>
                         <div class="flex items-start gap-3">
                             <iconify-icon icon="solar:check-circle-bold" class="text-[#1B9DD9] mt-1"></iconify-icon>
-                            <span class="text-sm font-normal text-white/80">Relatórios de Desempenho</span>
+                            <span class="text-sm font-normal text-white/80">Suporte técnico remoto, presencial e contínuo</span>
                         </div>
                     </div>
 
-                    <a href="#contato" class="inline-flex items-center justify-center bg-[#1B9DD9] hover:bg-[#1689C0] text-white text-sm font-semibold rounded-full px-8 py-4 transition-all shadow-[0_10px_20px_-5px_rgba(27,157,217,0.3)]">
-                        Solicitar Demonstração
+                    <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="inline-flex items-center justify-center bg-[#1B9DD9] hover:bg-[#1689C0] text-white text-sm font-semibold rounded-full px-8 py-4 transition-all shadow-[0_10px_20px_-5px_rgba(27,157,217,0.3)]">
+                        Quero meu diagnóstico gratuito
                     </a>
                 </div>
 
@@ -361,7 +361,7 @@ gtag('config', 'G-2M6V79H761');
                         <!-- Main Rack Panel -->
                         <div class="w-[280px] border border-white/10 bg-white/[0.02] p-4 flex flex-col gap-[3px] relative z-10 backdrop-blur-sm">
                             <div class="flex justify-between items-center mb-6 px-2">
-                                <span class="text-[0.5rem] font-bold tracking-[0.2em] uppercase text-[#666666]">GATE+ PLATFORM — Gate+ Tecnologia.</span>
+                                <span class="text-[0.5rem] font-bold tracking-[0.2em] uppercase text-[#666666]">GATE+ PLATFORM — Gate TI.</span>
                                 <iconify-icon icon="solar:cloud-linear" class="text-white/30"></iconify-icon>
                             </div>
 
@@ -509,19 +509,19 @@ gtag('config', 'G-2M6V79H761');
         </div>
     </section>
 
-    <!-- SECTION 4.5: COMO A GATE+ FUNCIONA — 5 PASSOS -->
+    <!-- SECTION 4.5: COMO A GATE+ FUNCIONA — 4 PASSOS -->
     <section id="como-funciona" class="bg-[#EDEAE4] py-[120px] lg:py-[160px]">
         <div class="max-w-[90rem] mx-auto px-6">
 
             <div class="mb-20">
                 <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-6 block">Como Trabalhamos</span>
                 <h2 class="text-5xl md:text-6xl font-extrabold tracking-[-0.045em] leading-[0.95] text-[#111111]">
-                    Cinco etapas.<br>
-                    <span class="font-extralight italic text-[#111111]/50">Sem surpresas.</span>
+                    Um processo simples,<br>
+                    <span class="font-extralight italic text-[#111111]/50">profissional e eficiente.</span>
                 </h2>
             </div>
 
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-10 lg:gap-6">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-6">
 
                 <!-- Step 01 -->
                 <div class="flex flex-col gap-5 reveal">
@@ -529,8 +529,8 @@ gtag('config', 'G-2M6V79H761');
                         <span class="text-base font-extrabold text-white tracking-tight">01</span>
                     </div>
                     <div>
-                        <p class="text-sm font-bold text-[#111111] mb-2">Diagnóstico Técnico</p>
-                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Mapeamos a infraestrutura atual, identificamos gargalos e entendemos as necessidades reais do negócio.</p>
+                        <p class="text-sm font-bold text-[#111111] mb-2">Diagnóstico</p>
+                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Analisamos sua estrutura atual, identificamos riscos, gargalos, falhas e oportunidades de melhoria.</p>
                     </div>
                 </div>
 
@@ -540,8 +540,8 @@ gtag('config', 'G-2M6V79H761');
                         <span class="text-base font-extrabold text-[#111111]/35 tracking-tight">02</span>
                     </div>
                     <div>
-                        <p class="text-sm font-bold text-[#111111] mb-2">Projeto da Solução</p>
-                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Rede, sistemas e nuvem planejados como um ecossistema integrado. Nada improvisado.</p>
+                        <p class="text-sm font-bold text-[#111111] mb-2">Planejamento</p>
+                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Criamos uma solução sob medida para sua empresa, conectando rede, sistemas, segurança e suporte.</p>
                     </div>
                 </div>
 
@@ -551,30 +551,19 @@ gtag('config', 'G-2M6V79H761');
                         <span class="text-base font-extrabold text-[#111111]/35 tracking-tight">03</span>
                     </div>
                     <div>
-                        <p class="text-sm font-bold text-[#111111] mb-2">Implantação Coordenada</p>
-                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Instalação e configuração com acompanhamento técnico em cada etapa do processo.</p>
+                        <p class="text-sm font-bold text-[#111111] mb-2">Implantação</p>
+                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Organizamos, configuramos e validamos toda a estrutura de TI para entregar estabilidade desde o início.</p>
                     </div>
                 </div>
 
                 <!-- Step 04 -->
                 <div class="flex flex-col gap-5 reveal delay-300">
-                    <div class="w-14 h-14 rounded-full bg-[#111111]/10 flex items-center justify-center shrink-0">
-                        <span class="text-base font-extrabold text-[#111111]/35 tracking-tight">04</span>
-                    </div>
-                    <div>
-                        <p class="text-sm font-bold text-[#111111] mb-2">Testes e Validação</p>
-                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Toda a solução é testada em ambiente real antes da entrega. Desempenho confirmado.</p>
-                    </div>
-                </div>
-
-                <!-- Step 05 -->
-                <div class="flex flex-col gap-5 reveal delay-400">
                     <div class="w-14 h-14 rounded-full bg-[#1B9DD9] flex items-center justify-center shrink-0">
-                        <span class="text-base font-extrabold text-white tracking-tight">05</span>
+                        <span class="text-base font-extrabold text-white tracking-tight">04</span>
                     </div>
                     <div>
-                        <p class="text-sm font-bold text-[#111111] mb-2">Suporte Contínuo</p>
-                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Monitoramento proativo, atualizações e suporte técnico dedicado após a entrega.</p>
+                        <p class="text-sm font-bold text-[#111111] mb-2">Monitoramento</p>
+                        <p class="text-sm font-light text-[#111111]/55 leading-relaxed">Acompanhamos continuamente sua tecnologia para evitar problemas antes que eles aconteçam.</p>
                     </div>
                 </div>
 
@@ -590,9 +579,10 @@ gtag('config', 'G-2M6V79H761');
         <div class="max-w-[90rem] mx-auto px-6 relative z-10">
 
             <div class="mb-20 max-w-3xl reveal">
-                <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-8 block">O Que Muda com a Gate+</span>
+                <span class="font-semibold tracking-[0.2em] uppercase text-xs text-[#1B9DD9] mb-8 block">O Que Muda com a Gate TI</span>
                 <h2 class="text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-[-0.045em] leading-[0.95] text-white">
-                    O que muda quando a tecnologia<br>é integrada de verdade.
+                    Mais produtividade,<br>
+                    segurança e tranquilidade.
                 </h2>
             </div>
 
@@ -605,8 +595,8 @@ gtag('config', 'G-2M6V79H761');
                         <iconify-icon icon="solar:wifi-router-linear" class="text-xl text-[#1B9DD9]"></iconify-icon>
                     </div>
                     <div>
-                        <h3 class="text-base font-bold text-white mb-3">Rede estável, sem interrupções</h3>
-                        <p class="text-base font-extralight text-white/45 leading-[1.75]">Infraestrutura de cabeamento e Wi-Fi dimensionada corretamente não cai, não trava e não surpreende negativamente.</p>
+                        <h3 class="text-base font-bold text-white mb-3">Empresa funcionando sem parar</h3>
+                        <p class="text-base font-extralight text-white/45 leading-[1.75]">Infraestrutura dimensionada corretamente reduz quedas, lentidão e interrupções que atrapalham a rotina.</p>
                     </div>
                 </div>
 
@@ -616,8 +606,8 @@ gtag('config', 'G-2M6V79H761');
                         <iconify-icon icon="solar:chart-2-linear" class="text-xl text-[#1B9DD9]"></iconify-icon>
                     </div>
                     <div>
-                        <h3 class="text-base font-bold text-white mb-3">Sistemas que se comunicam</h3>
-                        <p class="text-base font-extralight text-white/45 leading-[1.75]">ERP, rede e nuvem trabalhando em conjunto. Dados consistentes, processos sem retrabalho, relatórios que fecham.</p>
+                        <h3 class="text-base font-bold text-white mb-3">Mais produtividade</h3>
+                        <p class="text-base font-extralight text-white/45 leading-[1.75]">Rede, sistemas e processos organizados reduzem retrabalho e deixam a equipe trabalhar com mais fluidez.</p>
                     </div>
                 </div>
 
@@ -627,8 +617,8 @@ gtag('config', 'G-2M6V79H761');
                         <iconify-icon icon="solar:cloud-storage-linear" class="text-xl text-[#1B9DD9]"></iconify-icon>
                     </div>
                     <div>
-                        <h3 class="text-base font-bold text-white mb-3">Dados sempre protegidos</h3>
-                        <p class="text-base font-extralight text-white/45 leading-[1.75]">Backup automatizado e recuperação em nuvem. Suas informações seguras mesmo diante de falhas ou incidentes críticos.</p>
+                        <h3 class="text-base font-bold text-white mb-3">Mais segurança</h3>
+                        <p class="text-base font-extralight text-white/45 leading-[1.75]">Backup automatizado, proteção de dados e rotinas de segurança reduzem riscos de perda e exposição de informações.</p>
                     </div>
                 </div>
 
@@ -638,11 +628,17 @@ gtag('config', 'G-2M6V79H761');
                         <iconify-icon icon="solar:headphones-round-linear" class="text-xl text-[#1B9DD9]"></iconify-icon>
                     </div>
                     <div>
-                        <h3 class="text-base font-bold text-white mb-3">Um único ponto de suporte</h3>
-                        <p class="text-base font-extralight text-white/45 leading-[1.75]">Sem jogar responsabilidade entre fornecedores. A Gate+ cuida de tudo — infraestrutura, sistema e nuvem — do início ao fim.</p>
+                        <h3 class="text-base font-bold text-white mb-3">Mais tranquilidade</h3>
+                        <p class="text-base font-extralight text-white/45 leading-[1.75]">Sem jogar responsabilidade entre fornecedores. A Gate TI cuida da infraestrutura, dos sistemas e do suporte.</p>
                     </div>
                 </div>
 
+            </div>
+
+            <div class="mt-14 reveal delay-200">
+                <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="inline-flex items-center justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-sm font-semibold rounded-full px-8 py-4 transition-all transform hover:-translate-y-[1px]">
+                    Solicitar diagnóstico gratuito
+                </a>
             </div>
         </div>
     </section>
@@ -681,6 +677,10 @@ gtag('config', 'G-2M6V79H761');
                             <span class="text-sm font-normal text-white">Relatórios e dashboards para decisões rápidas</span>
                         </div>
                     </div>
+
+                    <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="inline-flex items-center justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-sm font-semibold rounded-full px-8 py-4 mt-10 transition-all transform hover:-translate-y-[1px]">
+                        Falar com especialista
+                    </a>
                 </div>
 
                 <!-- Right: Feature Grid -->
@@ -741,13 +741,13 @@ gtag('config', 'G-2M6V79H761');
 
             <div class="relative z-10 flex flex-col items-center">
                 <h2 class="text-5xl md:text-7xl font-extrabold tracking-[-0.045em] leading-[0.95] text-white mb-8">
-                    Pronto para modernizar<br>
-                    a tecnologia da<br>
-                    sua empresa?
+                    Solicite um<br>
+                    Diagnóstico Gratuito<br>
+                    de TI.
                 </h2>
 
                 <p class="text-base font-extralight text-white/70 leading-[1.75] max-w-[480px] mb-12">
-                    Converse com nossos especialistas hoje mesmo e descubra como a Gate+ pode otimizar sua infraestrutura e acelerar a sua gestão com o GATE SIS.
+                    Descubra os riscos e oportunidades da sua empresa. Você recebe uma análise objetiva da sua estrutura e um plano de melhoria sem compromisso.
                 </p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-16 mb-16 text-left">
@@ -756,39 +756,43 @@ gtag('config', 'G-2M6V79H761');
                         <div class="mb-6">
                             <iconify-icon icon="solar:screencast-linear" class="text-4xl text-white"></iconify-icon>
                         </div>
-                        <h3 class="text-lg font-bold text-white mb-4">Monitoramento 24/7</h3>
-                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Sua infraestrutura monitorada em tempo real para evitar interrupções antes que elas aconteçam.</p>
+                        <h3 class="text-lg font-bold text-white mb-4">Análise da Rede</h3>
+                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Avaliação de estrutura, conectividade, Wi-Fi, servidores e pontos de instabilidade.</p>
                     </div>
 
                     <div class="flex flex-col reveal delay-200">
                         <div class="mb-6">
                             <iconify-icon icon="solar:cloud-upload-linear" class="text-4xl text-white"></iconify-icon>
                         </div>
-                        <h3 class="text-lg font-bold text-white mb-4">Backup & Recuperação</h3>
-                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Estratégias de backup em nuvem para garantir a recuperação rápida de dados críticos em qualquer cenário.</p>
+                        <h3 class="text-lg font-bold text-white mb-4">Avaliação de Segurança</h3>
+                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Verificação dos principais riscos para dados, acessos, proteção e continuidade.</p>
                     </div>
 
                     <div class="flex flex-col reveal delay-300">
                         <div class="mb-6">
                             <iconify-icon icon="solar:shield-keyhole-linear" class="text-4xl text-white"></iconify-icon>
                         </div>
-                        <h3 class="text-lg font-bold text-white mb-4">Segurança Avançada</h3>
-                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Proteção contra ameaças digitais com firewalls e protocolos de segurança de nível corporativo.</p>
+                        <h3 class="text-lg font-bold text-white mb-4">Identificação de Falhas</h3>
+                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Mapeamento dos pontos que geram lentidão, retrabalho, perdas ou paradas na operação.</p>
                     </div>
 
                     <div class="flex flex-col reveal delay-400">
                         <div class="mb-6">
                             <iconify-icon icon="solar:chat-round-call-linear" class="text-4xl text-white"></iconify-icon>
                         </div>
-                        <h3 class="text-lg font-bold text-white mb-4">Suporte Proativo</h3>
-                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Não espere o problema aparecer. Nossa equipe atua preventivamente na manutenção dos seus sistemas.</p>
+                        <h3 class="text-lg font-bold text-white mb-4">Plano de Melhoria</h3>
+                        <p class="text-sm font-extralight text-white/70 leading-relaxed">Recomendações práticas para organizar, proteger e escalar a tecnologia da empresa.</p>
                     </div>
 
                 </div>
 
-                <a href="https://wa.me/554191224326" target="_blank" rel="noopener" class="inline-flex items-center gap-2 justify-center bg-[#0C0C0C] hover:bg-[#161616] text-white text-sm font-semibold rounded-full px-8 py-4 mb-6 transition-all transform hover:-translate-y-[2px]">
+                <h3 class="text-2xl md:text-3xl font-extrabold tracking-[-0.035em] leading-tight text-white mb-8">
+                    Sua empresa não pode parar por causa da TI.
+                </h3>
+
+                <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="inline-flex items-center gap-2 justify-center bg-[#0C0C0C] hover:bg-[#161616] text-white text-sm font-semibold rounded-full px-8 py-4 mb-6 transition-all transform hover:-translate-y-[2px]">
                     <iconify-icon icon="solar:chat-round-line-linear" class="text-base"></iconify-icon>
-                    Falar com um Especialista →
+                    Quero meu diagnóstico gratuito
                 </a>
 
                 <p class="text-xs font-extralight italic text-white/60">
@@ -811,7 +815,7 @@ gtag('config', 'G-2M6V79H761');
                         <img src="assets/images/logo_oficial_transparente.png" alt="Gate+ TI" class="h-40">
                     </a>
                     <p class="text-sm font-extralight text-white/30 leading-[1.75] max-w-sm mt-2">
-                        Soluções integradas de infraestrutura, sistemas e nuvem para acelerar o crescimento do seu negócio com segurança e eficiência técnica.
+                        Um único parceiro para estruturar, proteger e acompanhar toda a TI da sua empresa com segurança, organização e continuidade.
                     </p>
                     <a href="https://gatesolution.suport.systems" target="_blank" rel="noopener" class="inline-flex items-center gap-2 justify-center bg-[#1B9DD9] hover:bg-[#2DAEE2] text-white text-sm font-semibold rounded-full px-6 py-3 mt-8 transition-all transform hover:-translate-y-[1px]">
                         <iconify-icon icon="solar:user-rounded-linear" class="text-base"></iconify-icon>
@@ -855,7 +859,7 @@ gtag('config', 'G-2M6V79H761');
                     <h4 class="text-xs font-semibold tracking-[0.2em] uppercase text-white/40 mb-6">Contato</h4>
                     <ul class="space-y-4 text-sm font-extralight text-white/60">
                         <li>
-                            <a href="https://wa.me/554191224326" target="_blank" rel="noopener" class="hover:text-white transition-colors flex items-center gap-2">
+                            <a href="https://wa.me/5541991224326?text=Ol%C3%A1%21%20Quero%20solicitar%20um%20diagn%C3%B3stico%20gratuito%20de%20TI%20para%20minha%20empresa." target="_blank" rel="noopener" class="hover:text-white transition-colors flex items-center gap-2">
                                 <iconify-icon icon="solar:phone-linear" class="text-[#1B9DD9] shrink-0"></iconify-icon>
                                 WhatsApp: (41) 99122-4326
                             </a>
