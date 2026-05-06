@@ -80,7 +80,7 @@ gtag('config', 'G-2M6V79H761');
     <nav class="fixed top-0 w-full h-[7rem] bg-[#0C0C0C]/90 backdrop-blur-md border-b border-white/[0.06] z-50 transition-colors flex items-center">
         <div class="max-w-[90rem] w-full mx-auto px-6 flex items-center justify-between">
             <a href="#" class="flex items-center" aria-label="Gate+ TI">
-                <img src="assets/images/logo_oficial_transparente.png" alt="Gate+ TI" class="h-24">
+                <img src="assets/Logo final.png" alt="Gate+ TI" class="h-24">
             </a>
 
             <div class="hidden md:flex items-center space-x-8 text-sm font-light text-white/70">
@@ -812,7 +812,7 @@ gtag('config', 'G-2M6V79H761');
                 <!-- Col 1: Logo + Sobre -->
                 <div class="lg:col-span-4">
                     <a href="#" class="inline-block mb-4" aria-label="Gate+ TI">
-                        <img src="assets/images/logo_oficial_transparente.png" alt="Gate+ TI" class="h-40">
+                        <img src="assets/Logo final.png" alt="Gate+ TI" class="h-40">
                     </a>
                     <p class="text-sm font-extralight text-white/30 leading-[1.75] max-w-sm mt-2">
                         Um único parceiro para estruturar, proteger e acompanhar toda a TI da sua empresa com segurança, organização e continuidade.
